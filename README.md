@@ -24,8 +24,9 @@ A simple **Digital Clock** built using **HTML, CSS, and JavaScript**. It display
 ![image](https://github.com/user-attachments/assets/e389768c-5cb6-44e8-95e2-74aed2d88994)
 
 
-🔗 Live Demo
-👉 View Live (https://digital-clock-phi-lac.vercel.app/)
+## 🔗 Live Demo  
+👉 [View Live](https://digital-clock-phi-lac.vercel.app/)  
+
 
 📜 License
 This project is open-source under the MIT License.
